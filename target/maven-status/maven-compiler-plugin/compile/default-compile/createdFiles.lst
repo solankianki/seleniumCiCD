@@ -1,0 +1,8 @@
+framework/PageObjects/CartPage.class
+framework/PageObjects/LandingPage.class
+framework/PageObjects/ConfirmationPage.class
+framework/PageObjects/CataloguePage.class
+framework/AbstractComponents/AbstractComponents.class
+framework/PageObjects/OrderPage.class
+framework/PageObjects/OrdersPage.class
+framework/resources/ExtentReporterNG.class

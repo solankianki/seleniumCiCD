@@ -1,0 +1,8 @@
+framework/TestComponents/Retry.class
+framework/Tests/ErrorValidationsTest.class
+framework/Tests/StandAloneTest.class
+framework/data/DataReader.class
+framework/Tests/SubmitOrderTest.class
+framework/TestComponents/Listeners.class
+framework/data/DataReader$1.class
+framework/TestComponents/BaseTest.class
