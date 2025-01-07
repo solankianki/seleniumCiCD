@@ -15,6 +15,7 @@ import framework.PageObjects.OrderPage;
 import framework.PageObjects.OrdersPage;
 import framework.TestComponents.BaseTest;
 
+//Submitting the product in ecommerceApp
 public class SubmitOrderTest extends BaseTest{
 	
 	@Test(dataProvider = "getData",groups = "sanity")
