@@ -10,6 +10,7 @@ import framework.PageObjects.CataloguePage;
 import framework.TestComponents.BaseTest;
 import framework.TestComponents.Retry;
 
+//ErrorValidations Test
 public class ErrorValidationsTest extends BaseTest{
 	@Test(groups = {"ErrorHandling"},retryAnalyzer = Retry.class)
 	public void submitOrder() throws InterruptedException, IOException {
